@@ -64,7 +64,7 @@
           <img class="ownerImg" src="./images/owner.png">
         </div>
         <div class="col-50">
-          <h2>Augusto Clari</h2>
+          <h2>Sample User</h2>
           <br>
           <h4>Age: 29</h4>
           <br>
